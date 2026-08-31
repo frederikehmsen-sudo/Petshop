@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5o23D4mOXE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frede\\RiderProjects\\Petshop\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frede\\.nuget\\packages\\linq2db\\6.4.0\\linq2db.6.4.0.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\linq2db.analyzers\\6.4.0\\linq2db.analyzers.6.4.0.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\microsoft.data.sqlite\\10.0.11\\microsoft.data.sqlite.10.0.11.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.11\\microsoft.data.sqlite.core.10.0.11.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.12\\sqlitepclraw.bundle_e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\sqlitepclraw.core\\2.1.12\\sqlitepclraw.core.2.1.12.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.12\\sqlitepclraw.lib.e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\Frede\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.12\\sqlitepclraw.provider.e_sqlite3.2.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
